@@ -23,7 +23,7 @@ puts moduling
 end
 
 def square_root(num)
-squarerooting = num ** 0.5
+squarerooting = Math.sqrt(num)
 puts squarerooting
 end
 
