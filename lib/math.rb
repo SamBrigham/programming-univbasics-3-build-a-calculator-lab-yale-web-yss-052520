@@ -27,3 +27,4 @@ squarerooting = Math.sqrt(num)
 puts squarerooting
 end
 
+modulo(12,3)
