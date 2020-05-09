@@ -12,17 +12,14 @@ end
 
 def multiplication(num1, num2)
 puts num1 * num2
-puts multiplying
 end
 
 def modulo(num1, num2)
-moduling = num1 % num2
-puts moduling
+puts num1 % num2
 end
 
 def square_root(num)
-squarerooting = Math.sqrt(num)
-puts squarerooting
+puts Math.sqrt(num)
 end
 
 modulo(12,3)
