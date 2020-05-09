@@ -3,17 +3,15 @@ puts (num1 + num2)
 end
 
 def subtraction(num1, num2)
-subtracting = num1 - num2
-puts subtracting
+puts = num1 - num2
 end
 
 def division(num1, num2)
-dividing = num1 / num2
-puts dividing
+puts num1 / num2
 end
 
 def multiplication(num1, num2)
-multiplying = num1 * num2
+puts num1 * num2
 puts multiplying
 end
 
