@@ -28,3 +28,4 @@ puts squarerooting
 end
 
 modulo(12,3)
+multiplication(3,5)
